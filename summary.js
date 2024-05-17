@@ -11,7 +11,7 @@ console.log(my===myName);
 const bigNumber=122343497287n
 //used to store big numbers and values
 
-//non primitve datatypes
+//non primitive datatypes
 //array, objects, functions
 
 //create an array example 
