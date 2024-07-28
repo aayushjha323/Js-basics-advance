@@ -42,3 +42,8 @@ myArr.pop()
 myArr.unshift(90)//unshift is used to push value in the beginning of an array
 myArr.shift()//this is used to pop value from the beginning of the array
 console.log(myArr);
+
+
+//++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
